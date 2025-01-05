@@ -1,0 +1,1 @@
+This repository demonstrates a common error in ActionScript 3: attempting to access a property of a null object.  The `bug.as` file shows the erroneous code, resulting in a null pointer exception. The `bugSolution.as` file provides a corrected version with proper null checks.
